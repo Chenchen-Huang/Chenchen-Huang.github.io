@@ -2,7 +2,6 @@
 title: "Predictions of carbon emission intensity based on factor analysis and an improved extreme learning machine from the perspective of carbon emission efficiency"
 collection: publications
 permalink: /publication/2022-paper-JCLP-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-03-01
 venue: 'Journal of Cleaner Production'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0959652622000609'
