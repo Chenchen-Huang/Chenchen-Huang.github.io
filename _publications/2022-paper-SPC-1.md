@@ -2,7 +2,6 @@
 title: "Analysis of emission reduction effects of carbon trading: Market mechanism or government intervention?"
 collection: publications
 permalink: /publication/2022-paper-SPC-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-09-01
 venue: 'Sustainable Production and Consumption'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2352550922001622'
