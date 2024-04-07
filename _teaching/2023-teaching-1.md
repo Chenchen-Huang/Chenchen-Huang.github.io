@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant"
+title: "Advanced Econometrics (Teaching assistant)"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2023-teaching-1
