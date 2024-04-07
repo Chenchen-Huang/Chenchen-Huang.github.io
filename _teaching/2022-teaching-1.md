@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant"
+title: "Macroeconomics (Teaching assistant)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-teaching-1
