@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant"
+title: "Causal inference from panel data of Lian Xiang Hui (Teaching assistant)"
 collection: teaching
 type: "Online course"
 permalink: /teaching/2024-teaching-2
