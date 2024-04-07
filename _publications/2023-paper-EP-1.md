@@ -2,7 +2,6 @@
 title: "How will promoting the digital economy affect electricity intensity?"
 collection: publications
 permalink: /publication/2023-paper-EP-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-02-01
 venue: 'Energy Policy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0301421522005602'
