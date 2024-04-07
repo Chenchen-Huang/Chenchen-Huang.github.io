@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Energy Economics, Xiamen University, 2025 (expected)
+* M.S. in Technical Economics and Management, North China Electric Power University, 2021
+* B.S. in Business Administration, North China Electric Power University, 2018
 
   
 Skills
