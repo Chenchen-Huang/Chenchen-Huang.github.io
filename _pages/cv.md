@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 <a href="chenchen-huang.github.io/files/ChenchenHuang_CV.pdf" target="_blank">PDF.</a>
 
 Education
