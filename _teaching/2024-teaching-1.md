@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant"
+title: "Electric Power Engineering and Technology (Teaching assistant)"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2024-teaching-1
