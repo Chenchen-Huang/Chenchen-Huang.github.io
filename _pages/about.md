@@ -19,10 +19,10 @@ Education
 - 09/2021~Present, Xiamen University
   - Ph.D. Student in Energy Economics
 - 09/2018~06/2021, North China Electric Power University
-  - M.A. in Technical Economics and Management
+  - M.Sc. in Technical Economics and Management
   - rank 1st/25 in the major
 - 09/2014~06/2018, North China Electric Power University
-  - B.A. in Business Administration
+  - B.Sc. in Business Administration
   - rank 1st/26 in the major
 
 Honors and Awards
