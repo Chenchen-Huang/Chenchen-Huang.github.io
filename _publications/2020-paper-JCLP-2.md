@@ -2,7 +2,6 @@
 title: "A carbon price prediction model based on secondary decomposition algorithm and optimized back propagation neural network"
 collection: publications
 permalink: /publication/2020-paper-JCLP-2
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-01-01
 venue: 'Journal of Cleaner Production'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0959652619335413'
