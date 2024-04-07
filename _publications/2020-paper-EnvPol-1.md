@@ -2,7 +2,6 @@
 title: "A hybrid air pollutant concentration prediction model combining secondary decomposition and sequence reconstruction"
 collection: publications
 permalink: /publication/2020-paper-EnvPol-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-11-01
 venue: 'Environmental Pollution'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0269749120344262'
