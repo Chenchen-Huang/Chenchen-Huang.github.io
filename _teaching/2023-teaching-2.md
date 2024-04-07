@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant"
+title: "Thesis class of Lian Xiang Hui (Teaching assistant)"
 collection: teaching
 type: "Online course"
 permalink: /teaching/2023-teaching-2
