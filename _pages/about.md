@@ -33,6 +33,6 @@ Honors and Awards
 - 12/2020: National Scholarship for Master's Students
 - 12/2020: Excellent Postgraduate Model in North China Electric Power University
 - 05/2018: Outstanding Graduates of Colleges and Universities in Hebei Province
-- 05/2018: Outstanding graduate in North China Electric Power University
+- 05/2018: Outstanding Graduate in North China Electric Power University
 
 
