@@ -9,4 +9,3 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S09596526220006
 citation: 'Sun, W., Huang, C., 2022. Predictions of carbon emission intensity based on factor analysis and an improved extreme learning machine from the perspective of carbon emission efficiency. J. Clean. Prod. 338. https://doi.org/10.1016/j.jclepro.2022.130414'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
