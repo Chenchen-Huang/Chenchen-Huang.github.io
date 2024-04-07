@@ -2,7 +2,6 @@
 title: "Nonlinear relationship between digitization and energy efficiency: Evidence from transnational panel data"
 collection: publications
 permalink: /publication/2023-paper-Energy-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-08-01
 venue: 'Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0360544223009957'
