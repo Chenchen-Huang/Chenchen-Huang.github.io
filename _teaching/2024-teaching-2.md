@@ -7,4 +7,4 @@ venue: "Lian Xiang Hui"
 date: 2024-03-16
 ---
 
-Teaching assistant for the *Causal inference from panel data of Lian Xiang Hui* program. The course was taught by Professor Yiqing Xu of Stanford University. The work includes counseling for students, including answering questions and correcting homework; Assist in communication between students and teachers.
+Teaching assistant for the *Causal inference from panel data of Lian Xiang Hui* course. The course was taught by Professor Yiqing Xu of Stanford University. The work includes counseling for students, including answering questions and correcting homework; Assist in communication between students and teachers.
