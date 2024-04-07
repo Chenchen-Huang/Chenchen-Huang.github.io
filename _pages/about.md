@@ -16,7 +16,7 @@ My research interests include energy economics, energy policy, digital economy, 
 
 Education
 ------
-- 09/2021~Present, Xiamen University()
+- 09/2021~Present, Xiamen University
   - Ph.D. Student in Energy Economics
 - 09/2018~06/2021, North China Electric Power University
   - M.A. in Technical Economics and Management
