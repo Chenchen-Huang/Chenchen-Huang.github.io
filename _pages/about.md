@@ -20,10 +20,10 @@ Education
   - Ph.D. Student in Energy Economics
 - 09/2018~06/2021, North China Electric Power University
   - M.A. in Technical Economics and Management
-  - rank 1^st/25 in the major
+  - rank $1^st$/25 in the major
 - 09/2014~06/2018, North China Electric Power University
   - B.A. in Business Administration
-  - rank 1^st/26 in the major
+  - rank $1^st$/26 in the major
 
 Honors and Awards
 ------
