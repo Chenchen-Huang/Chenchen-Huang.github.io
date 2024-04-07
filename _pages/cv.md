@@ -16,14 +16,6 @@ Education
 * B.S. in Business Administration, North China Electric Power University, 2018
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
