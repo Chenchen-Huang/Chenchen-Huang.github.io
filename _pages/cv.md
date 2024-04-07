@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="chenchen-huang.github.io/files/ChenchenHuang_CV.pdf" target="_blank">PDF.</a>
 
 Education
 ======
