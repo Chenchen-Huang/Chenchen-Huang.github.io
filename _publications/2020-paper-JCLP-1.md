@@ -2,7 +2,6 @@
 title: "How does urbanization affect carbon emission efficiency? Evidence from China"
 collection: publications
 permalink: /publication/2020-paper-JCLP-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-11-01
 venue: 'Journal of Cleaner Production'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0959652620328730'
