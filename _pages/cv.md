@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://chenchen-huang.github.io//files/ChenchenHuang_CV.pdf" target="_blank">Curriculum Vitae</a>
+
 
 Education
 ======
