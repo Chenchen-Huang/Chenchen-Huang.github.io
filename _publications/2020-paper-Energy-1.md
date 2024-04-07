@@ -2,7 +2,6 @@
 title: "A novel carbon price prediction model combines the secondary decomposition algorithm and the long short-term memory network"
 collection: publications
 permalink: /publication/2020-paper-Energy-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-09
 venue: 'Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0360544220314018'
