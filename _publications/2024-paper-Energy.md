@@ -2,7 +2,6 @@
 title: "Digital economy solutions towards carbon neutrality: The critical role of energy efficiency and energy structure transformation"
 collection: publications
 permalink: /publication/2024-paper-Energy
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-10-15
 venue: 'Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360544224022989'
