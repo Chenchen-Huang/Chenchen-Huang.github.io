@@ -2,7 +2,6 @@
 title: "How digital economy index selection and model uncertainty will affect energy green transition"
 collection: publications
 permalink: /publication/2024-paper-EE
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-08-01
 venue: 'Energy Economics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0140988324004821'
