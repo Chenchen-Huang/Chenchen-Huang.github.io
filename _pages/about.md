@@ -12,7 +12,7 @@ About me
 ======
 I am currently a Ph.D Candidate at the [Xiamen University](https://www.xmu.edu.cn), a Research Affiliate at the [China Institute for Studies in Energy Policy (CISEP)](https://cicep.xmu.edu.cn/). 
 
-My research interests include energy economics, energy policy, digital economy, and climate change. I have published papers in journals such as the *Energy Policy*, the *Applied Energy*, the *Sustainable Production and Consumption*.  I am proficient in various coding languages such as Stata, Matlab, and LaTeX. 
+My research interests include energy economics, energy management and digital economy. I have published papers in journals such as the *Energy Economics*, *Energy Policy*, the *Applied Energy*, the *Sustainable Production and Consumption*.  I am proficient in various coding languages such as Stata, Matlab, and LaTeX. 
 
 Education
 ------
