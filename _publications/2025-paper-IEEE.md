@@ -2,7 +2,6 @@
 title: "Improving Energy Efficiency Through the Digital Economy in Mainland China: Easier Said Than Done"
 collection: publications
 permalink: /publication/2024-paper-IEEE
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-01-01
 venue: 'IEEE Transactions on Engineering Management'
 paperurl: 'https://ieeexplore.ieee.org/document/10820026'
