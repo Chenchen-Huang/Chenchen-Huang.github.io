@@ -2,7 +2,6 @@
 title: "The impact of digital economy on energy rebound effect in China: A stochastic energy demand frontier approach"
 collection: publications
 permalink: /publication/2024-paper-EP
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-01-01
 venue: 'Energy Policy'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0301421524004385'
