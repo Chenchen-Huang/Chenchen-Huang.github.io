@@ -25,6 +25,7 @@ Education
 
 Honors and Awards
 ------
+- 12/2024: National Scholarship for Ph.D Students
 - 01/2023: Excellent Master's Degree Thesis in Hebei Province
 - 06/2021: Excellent Master's Degree Thesis in North China Electric Power University
 - 05/2021: Merit Student in Hebei Province
