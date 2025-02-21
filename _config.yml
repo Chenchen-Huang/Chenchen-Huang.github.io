@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me1.jpg"
+  avatar           : "2寸.jpg"
   name             : "黄晨晨 (Chenchen Huang)"
   pronouns         : # example: "she/her"  
   bio              : "You only live once."
